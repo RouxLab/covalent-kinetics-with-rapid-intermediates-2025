@@ -1,0 +1,13 @@
+name: ghaby_2025
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=1.26
+  - matplotlib=3.9
+  - jupyter
+  - jupyterlab
+  - ipykernel
+  - pip
+  - pip:
+      - -r requirements.txt  # Install other dependencies through pip
