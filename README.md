@@ -15,7 +15,7 @@ This notebook should work with Python 3.10, 3.11, and 3.12. The packages used ar
 
 ### Installation
 
-Use the following command in the root of a local clone of this repository to create an environment `ghaby_2025` (or a name of your choice assigned in `environment.yml`) for the notebook:
+Use the following command in the root of a local clone of this repository to create an environment `gekim` (or a name of your choice assigned in `environment.yml`) for the notebook:
 
 ```shell
 conda env create -f environment.yml
@@ -25,7 +25,7 @@ Then,
 
 ```shell
 conda deactivate
-conda activate ghaby_2025
+conda activate gekim
 ```
 
 ## References

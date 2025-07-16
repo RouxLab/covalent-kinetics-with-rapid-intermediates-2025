@@ -1,10 +1,10 @@
-name: ghaby_2025
+name: gekim
 channels:
   - conda-forge
 dependencies:
-  - python=3.11
-  - numpy=1.26
-  - matplotlib=3.9
+  - python=3.12
+  - numpy
+  - matplotlib
   - jupyter
   - jupyterlab
   - ipykernel
