@@ -24,9 +24,11 @@ conda env create -f environment.yml
 Then,
 
 ```shell
-conda deactivate
 conda activate gekim
 ```
+
+## Contact
+Feel free to open an issue or email kyleghaby@gmail.com with questions.
 
 ## References
 
